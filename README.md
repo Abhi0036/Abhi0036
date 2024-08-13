@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently working on web development projects**
 
 - 💬 Ask me about **JAVA HTML CSS JAVASCRIPT SQL PYTHON**
 
